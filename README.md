@@ -4,4 +4,5 @@ NCTUReports
 
 * Download bank.xls
 * Dowload detail.xls
+* Filter alread payed newitem
 
